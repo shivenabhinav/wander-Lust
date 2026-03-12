@@ -1,0 +1,33 @@
+# Sentiment Analysis
+Sentiment_analysis/.venv
+Sentiment_analysis/__pycache__/
+Sentiment_analysis/*.pyc
+Sentiment_analysis/model/
+
+# Wanderlust Web App
+Wanderlust/node_modules
+Wanderlust/.pnp
+Wanderlust/.pnp.*
+Wanderlust/.yarn/*
+!Wanderlust/.yarn/patches
+!Wanderlust/.yarn/plugins
+!Wanderlust/.yarn/releases
+!Wanderlust/.yarn/versions
+Wanderlust/coverage
+Wanderlust/.next/
+Wanderlust/out/
+Wanderlust/build
+Wanderlust/.DS_Store
+Wanderlust/*.pem
+Wanderlust/npm-debug.log*
+Wanderlust/yarn-debug.log*
+Wanderlust/yarn-error.log*
+Wanderlust/.pnpm-debug.log*
+Wanderlust/.env*
+Wanderlust/.vercel
+Wanderlust/*.tsbuildinfo
+Wanderlust/next-env.d.ts
+Wanderlust/model/
+
+# General
+.DS_Store

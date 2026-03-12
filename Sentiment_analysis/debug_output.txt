@@ -1,0 +1,7 @@
+{
+   "destination": "Goa",
+   "is_safe": false,
+   "sentiment": "UNSAFE",
+   "reason": "High visitor density during peak seasons affects cost efficiency and experience.",
+   "alternate_destination": "Coorg"
+}

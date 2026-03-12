@@ -1,0 +1,2 @@
+User: I am planning a trip to Mysuru next week. Is it a good time to visit?
+System: 
